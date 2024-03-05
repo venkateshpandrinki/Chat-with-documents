@@ -18,8 +18,8 @@ Run the application using the following command:
 
     streamlit run app.py
 Dependencies:
-#Streamlit: A Python library for creating interactive web applications for data science and machine learning projects.
-#Langchain: A blockchain platform designed for language-related applications and services.
-#PyPDF2: A Python library for working with PDF files, allowing reading, writing, and manipulation of PDF documents.
-#Faiss-cpu: A library for efficient similarity search and clustering of large-scale datasets, using algorithms optimized for CPUs.
+# Streamlit: A Python library for creating interactive web applications for data science and machine learning projects.
+# Langchain: A blockchain platform designed for language-related applications and services.
+# PyPDF2: A Python library for working with PDF files, allowing reading, writing, and manipulation of PDF documents.
+# Faiss-cpu: A library for efficient similarity search and clustering of large-scale datasets, using algorithms optimized for CPUs.
 
