@@ -7,18 +7,17 @@
    conda create -p venv python==3.12
 Activate the virtual environment:
 
-    ```bash
+
     conda activate venv
 Install the required packages from requirements.txt:
 
-    ```bash
+
     pip install -r requirements.txt
 Usage
 Run the application using the following command:
 
-    ```bash
     streamlit run app.py
-Dependencies
+Dependencies:
 Streamlit: A Python library for creating interactive web applications for data science and machine learning projects.
 Langchain: A blockchain platform designed for language-related applications and services.
 PyPDF2: A Python library for working with PDF files, allowing reading, writing, and manipulation of PDF documents.
